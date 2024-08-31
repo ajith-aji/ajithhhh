@@ -119,6 +119,16 @@ and
 cat  copy the path 
 we can get the answer
 
+perform the vulneratbility scan dand serveriyt sceor of vulenratbieli indicates of web of platform
+nmap -Pn --script vulnip (given in question)
+and copy the cve put in chrome
+you can see the  severity score
+
+
+
+
+
+
 
 
 
