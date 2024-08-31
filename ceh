@@ -64,3 +64,44 @@ use bctextencoder
 download owazp sql injection
 
 
+new
+
+find the  fqdn domain contorller in subnet
+
+nmap -p389 -sV -iL  target list
+or 
+nmap -p389 -sV ip  -Pn
+
+
+insider attack is identifiedone of the employeess  elf files subnet  
+perform deep scan of the  sha 384 entoryp
+new anddroid hacking
+adb connect ip:5555
+ adb shell
+cd sdcard
+ls
+now we can fild elf files
+nwo we need to move the folder
+pwd 
+and come to own root 
+and copy the part   check ur the root user if not metan sudo -i
+ adb pull /sdcard/scan 
+ls we can see the scan
+ent -h
+
+if not means apt install ent
+
+ent evil.elf
+it show how many entropy 
+now we will use
+ent evil2.elf
+nwo we will ues
+ent evil3.elf
+SHA384sum evil.elf
+
+
+
+
+
+
+
