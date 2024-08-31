@@ -102,6 +102,25 @@ ent evil3.elf
 SHA384sum evil.elf
 
 
+priveleaescalation 
+shoulder sufing useranme and password ubuntu machine of root user
+nmap -sV -p 22 ip given in quesiton
+we can check whihc port is open 
+ssh usernameand ip example  ssh ajith@192.18.1.1
+then give password
+sudo -i
+then give password in question
+who am i
+cd /
+then go to root
+find . -name imroot.txt
+and chekc wheret eh root file is store and copy the full part of /home.kali likt that
+and 
+cat  copy the path 
+we can get the answer
+
+
+
 
 
 
