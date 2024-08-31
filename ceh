@@ -72,6 +72,9 @@ nmap -p389 -sV -iL  target list
 or 
 nmap -p389 -sV ip  -Pn
 
+it  from youtube
+nmap --script smb-os-discovery 10.10.1.0/24 
+
 
 insider attack is identifiedone of the employeess  elf files subnet  
 perform deep scan of the  sha 384 entoryp
