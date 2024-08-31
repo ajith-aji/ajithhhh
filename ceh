@@ -84,6 +84,8 @@ now we can fild elf files
 nwo we need to move the folder
 pwd 
 and come to own root 
+exit
+
 and copy the part   check ur the root user if not metan sudo -i
  adb pull /sdcard/scan 
 ls we can see the scan
